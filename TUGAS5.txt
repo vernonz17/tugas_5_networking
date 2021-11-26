@@ -1,0 +1,5 @@
+1. UDP
+2. salah
+3. benar 
+4. server yang digunakan untuk mengetahui IP Address suatu host lewat host name-nya
+5. TCP
